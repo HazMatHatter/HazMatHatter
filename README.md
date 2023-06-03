@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @St3754ats97
+- 👋 Hi, I’m Haz
 - 👀 I’m interested in ... moving up from beginner.  I want to learn as much as I can.
 - 🌱 I’m currently learning ... python.
 - 💞️ I’m looking to collaborate on ... nothing yet.
